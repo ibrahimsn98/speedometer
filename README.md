@@ -2,6 +2,8 @@
 
 A lightweight circular indicator view library for Android
 
+[![](https://jitpack.io/v/ibrahimsn98/speedometer.svg)](https://jitpack.io/#ibrahimsn98/speedometer)
+
 ## GIF
 
 <img src="https://github.com/ibrahimsn98/test-speed/blob/master/art/speedometer.gif" width="480" />
@@ -48,7 +50,7 @@ allprojects {
 Step 2. Add the dependency
 ```groovy
 dependencies {
-    implementation 'com.github.ibrahimsn98:Speedometer:1.0.0'
+    implementation 'com.github.ibrahimsn98:speedometer:1.0.1'
 }
 ```
 
