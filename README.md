@@ -6,7 +6,7 @@ A lightweight circular indicator view library for Android
 
 ## GIF
 
-<img src="https://github.com/ibrahimsn98/test-speed/blob/master/art/speedometer.gif" width="480" />
+<img src="https://github.com/ibrahimsn98/speedometer/blob/master/art/speedometer.gif" width="480" />
 
 ## XML Attributes
 
