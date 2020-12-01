@@ -1,0 +1,3 @@
+include ':speedometer'
+include ':app'
+rootProject.name = "speedometer"

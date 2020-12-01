@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Speedometer">
+        <attr name="maxSpeed" format="integer" />
+        <attr name="borderSize" format="dimension" />
+        <attr name="textGap" format="dimension" />
+        <attr name="metricText" format="string" />
+
+        <attr name="borderColor" format="color" />
+        <attr name="fillColor" format="color" />
+        <attr name="textColor" format="color" />
+    </declare-styleable>
+
+</resources>
