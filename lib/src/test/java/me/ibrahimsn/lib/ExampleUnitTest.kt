@@ -1,4 +1,4 @@
-package me.ibrahimsn.speedometer
+package me.ibrahimsn.lib
 
 import org.junit.Test
 

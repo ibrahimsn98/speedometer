@@ -1,4 +1,4 @@
-package me.ibrahimsn.speedometer
+package me.ibrahimsn.lib
 
 import android.animation.ValueAnimator
 import android.content.Context

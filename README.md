@@ -9,7 +9,7 @@ A lightweight circular indicator view library for Android
 ## XML Attributes
 
 ```xml
-<me.ibrahimsn.speedometer.Speedometer
+<me.ibrahimsn.lib.Speedometer
     android:id="@+id/speedometer"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

@@ -2,8 +2,7 @@ package me.ibrahimsn.speedometersample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.constraintlayout.widget.ConstraintLayout
-import me.ibrahimsn.speedometer.Speedometer
+import me.ibrahimsn.lib.Speedometer
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
