@@ -6,7 +6,9 @@ A lightweight circular indicator view library for Android
 [![](https://androidweekly.net/issues/issue-443/badge)](https://androidweekly.net/issues/issue-443)
 
 
+## GIF
 
+In-app preview
 <img src="https://github.com/ibrahimsn98/speedometer/blob/master/art/speedometer.gif" width="480" />
 
 ## XML Attributes
