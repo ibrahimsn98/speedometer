@@ -5,7 +5,7 @@ A lightweight circular indicator view library for Android
 [![](https://jitpack.io/v/ibrahimsn98/speedometer.svg)](https://jitpack.io/#ibrahimsn98/speedometer)
 [![](https://androidweekly.net/issues/issue-443/badge)](https://androidweekly.net/issues/issue-443)
 
-## GIF
+
 
 <img src="https://github.com/ibrahimsn98/speedometer/blob/master/art/speedometer.gif" width="480" />
 
@@ -79,8 +79,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-<<<<<<< HEAD
 
 > Follow me on Twitter [@ibrahimsn98](https://twitter.com/ibrahimsn98)
-=======
->>>>>>> d66541b821538b9f1106765ee0a3adb3dc60e473
